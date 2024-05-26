@@ -1,0 +1,72 @@
+{
+    "nav":{
+        "info":"Inforamtion",
+        "about":"About Us",
+        "enterprises":"Enterprises",
+        "adv":"Advantages",
+        "news":"News",
+        "comm":"Communication"
+    },
+    "banner":{
+        "p":"Excellence in everything",
+        "btn1":"Our Projects",
+        "btn2":"Connection"
+    },
+    "services":{
+        "h2":"Our Services",
+        "p1":"You can get free information from our company's specialists",
+        "p2":"Documents clearance",
+        "p3":"Repair correction service",
+        "p4":"Team of professionals"
+    },
+    "ratings":{
+        "h2":"Our Company",
+        "p1":"Number of employees",
+        "p2":"Objects",
+        "p3":"Special equipment",
+        "p4":"2 years on the market"
+    },
+    "dream":"Your Dream Home",
+    "projects":{
+        "h2":"Our Projects",
+        "p1":"This is a large-scale socially significant project. The cultural and entertainment cluster in Tashkent is one of the new attractions.",
+        "p2":"Multifunctional residential complex created to provide comfort to the residents of Uzbekistan.",
+        "p3":"Fonon is a jewelry production plant in Uzbekistan built on the basis of Italian ones in 2020. Fonon is the only large enterprise in Central Asia producing jewelry from precious metals in European and Oriental styles.",
+        "p4":"A grandiose residential area in the heart of the capital.",
+        "p5":"International kindergarten and school located in the international business center of Tashkent City.",
+        "p6":"This is an educational institution that provides knowledge at an international level."
+    },
+    "news":{
+        "h2":"All our news",
+        "title1":"Who is a construction project manager?",
+        "desc1":"The Discover Invest company has several construction project managers. This is a specialist responsible for the successful implementation of the construction site entrusted to him. He manages the entire process, from the planning stage and approval of project documentation to the commissioning of the building, and sometimes also performs post-project support.",
+        "title2":"Halls",
+        "desc2":"The sophisticated interior design of the halls will create an atmosphere of comfort even before entering the apartment, and a convenient navigation system will help you easily get to the floor you need or exit to the territory.",
+        "title3":"Location",
+        "desc3":"The transport infrastructure allows you to easily move to anywhere in the city: you just have to choose the desired and desired direction.",
+        "title4":"We continue to introduce you to the multifunctional objects of Discover Invest.",
+        "desc4":"We continue to introduce you to the multifunctional objects of Discover Invest. One of them is the Yangi Choshtepa residential complex built in the Yangihayat district of Tashkent. The total construction area is 12 hectares. To date, 29 houses have been built."
+    },
+    "enterprises":"Exchange ideas with partners",
+    "about":{
+        "h2":"ATAEV BAHODIR BUILD",
+        "p":"We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment: the company takes full responsibility for environmental aspects associated with the construction and operation of buildings and infrastructure.",
+        "a":"Explore More"
+    },
+    "form":{
+        "h2":"Do you have any questions, suggestions or requests?",
+        "name":"Your Name",
+        "phone":"Your Phone",
+        "message":"Your Message",
+        "btn":"Send"
+    },
+    "formsent":{
+        "success":"Sent Successfully",
+        "error":"Could not send. Please try again"
+    },
+    "footer":{
+        "h4":"Our company",
+        "h42":"Communication",
+        "projects":"Our Projects"
+    }
+}
