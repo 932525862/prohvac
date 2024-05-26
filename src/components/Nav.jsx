@@ -48,25 +48,25 @@ const Nav = () => {
       <Container>
         <div className="flex justify-center">
           <ul className="hidden md:flex items-center md:gap-7 lg:gap-12">
-            <li className="text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent hover:border-b-white transition-all duration-300">
+            <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
               <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.info')}</a>
             </li>
-            <li className="text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent hover:border-b-white transition-all duration-300">
+            <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
               <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.about')}</a>
             </li>
-            <li className="text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent hover:border-b-white transition-all duration-300">
+            <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
               <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.enterprises')}</a>
             </li>
             <li className="">
               <a href="#"><img className="object-contain w-[110px]" src={navbarSolid?logoDark:logo} alt="" /></a>
             </li>
-            <li className="text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent hover:border-b-white transition-all duration-300">
+            <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
               <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.adv')}</a>
             </li>
-            <li className="text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent hover:border-b-white transition-all duration-300">
+            <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
               <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.news')}</a>
             </li>
-            <li className="text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent hover:border-b-white transition-all duration-300">
+            <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
               <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.comm')}</a>
             </li>
             <li className="relative group cursor-pointer">
