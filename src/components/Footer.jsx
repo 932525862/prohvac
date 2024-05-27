@@ -1,15 +1,20 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import logo from "../assets/logo-dark.png"
 import Container from "../utils/Utils"
 import { FaInstagram,FaFacebookF } from "react-icons/fa";
 import { useTranslation } from 'react-i18next';
+import initializeAos from "../aos/aosSetup"
 
 const Footer = () => {
     const {t}=useTranslation()
+
+    useEffect(()=>{
+        initializeAos()
+      },[])
   return (
     <div className='bg-primary py-12 sm:py-20'>
         <Container>
-            <div className='flex flex-col sm:flex-row items-center sm:items-start sm:justify-between gap-10 sm:gap-5'>
+            <div data-aos='zoom-in' data-aos-duration='700' data-aos-delay='300' className='flex flex-col sm:flex-row items-center sm:items-start sm:justify-between gap-10 sm:gap-5'>
                 <div>
                     <img className='w-full max-w-[110px] sm:max-w-[120px] mb-5' src={logo} alt="" />
                     <div className='flex items-center gap-4'>

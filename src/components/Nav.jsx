@@ -22,6 +22,7 @@ const Nav = () => {
       dispatch({langCode:lang,type:"CHANGE_LANG"})
     }
 
+
     useEffect(() => {
         const handleScrollAndResize = () => {
             const isTop = window.scrollY < 100;
