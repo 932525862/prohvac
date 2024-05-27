@@ -35,7 +35,7 @@ const Ratings = () => {
     },[])
 
   return (
-    <div style={{backgroundImage:`url(${ratings})`}} className='bg-cover bg-center pt-20 pb-32'>
+    <div id='about' style={{backgroundImage:`url(${ratings})`}} className='bg-cover bg-center pt-20 pb-32'>
         <Container>
             <ScrollTrigger onEnter={()=>setCounterOn(true)} onExit={()=>setCounterOn(false)}>
             <div className=' overflow-x-hidden'>

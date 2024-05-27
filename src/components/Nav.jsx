@@ -49,25 +49,25 @@ const Nav = () => {
         <div className="flex justify-center">
           <ul className="hidden md:flex items-center md:gap-7 lg:gap-12">
             <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
-              <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.info')}</a>
+              <a href="#info" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.info')}</a>
             </li>
             <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
-              <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.about')}</a>
+              <a href="#about" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.about')}</a>
             </li>
             <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
-              <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.enterprises')}</a>
+              <a href="#enterprises" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.enterprises')}</a>
             </li>
             <li className="">
               <a href="#"><img className="object-contain w-[110px]" src={navbarSolid?logoDark:logo} alt="" /></a>
             </li>
             <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
-              <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.adv')}</a>
+              <a href="#services" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.adv')}</a>
             </li>
             <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
-              <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.news')}</a>
+              <a href="#news" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.news')}</a>
             </li>
             <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
-              <a href="#" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.comm')}</a>
+              <a href="tel:+998974839999" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.comm')}</a>
             </li>
             <li className="relative group cursor-pointer">
               <p className={`text-[13px] lg:text-[16px] uppercase ${navbarSolid?'text-black':'text-white'}`}>{langCode}</p>
@@ -93,7 +93,7 @@ const Nav = () => {
             </li>
             <li>
                 <button className="text-white bg-secondary rounded-full p-3 text-lg">
-                 <a href="tel:" ><FaPhoneFlip/></a>
+                 <a href="tel:+998974839999" ><FaPhoneFlip/></a>
                 </button>
             </li>
           </ul>
@@ -105,22 +105,19 @@ const Nav = () => {
             </div>
             <ul className=" flex flex-col gap-4">
             <li>
-              <a href="#">{t('nav.info')}</a>
+              <a href="#info">{t('nav.info')}</a>
             </li>
             <li>
-              <a href="#">{t('nav.about')}</a>
+              <a href="#about">{t('nav.about')}</a>
             </li>
             <li>
-              <a href="#">{t('nav.enterprises')}</a>
+              <a href="#enterprises">{t('nav.enterprises')}</a>
             </li>
             <li>
-              <a href="#">{t('nav.adv')}</a>
+              <a href="#services">{t('nav.adv')}</a>
             </li>
             <li>
-              <a href="#">{t('nav.news')}</a>
-            </li>
-            <li>
-              <a href="#">{t('nav.comm')}</a>
+              <a href="#news">{t('nav.news')}</a>
             </li>
             <li className="">
               <div className="flex justify-start gap-3">

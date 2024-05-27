@@ -14,7 +14,7 @@ const Services = () => {
         initializeAOS()
     },[])
   return (
-    <div className='bg-primary'>
+    <div id='services' className='bg-primary'>
         <Container>
             <div className='pt-20 pb-10'>
                 <h2 className='text-center text-3xl font-semibold mb-12'>{t('services.h2')}</h2>

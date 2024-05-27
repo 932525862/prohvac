@@ -17,7 +17,7 @@ const Projects = () => {
     initializeAOS()
   },[])
   return (
-    <div className="mt-12 overflow-hidden">
+    <div id="projects" className="mt-12 overflow-hidden">
       <Container>
         <div>
           <h2 data-aos='fade-right' data-aos-delay='200' className="text-3xl font-semibold mb-8">{t('projects.h2')}</h2>

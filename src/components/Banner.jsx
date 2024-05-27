@@ -14,8 +14,8 @@ const Banner = () => {
             <h1 className="text-[40px] sm:text-[58px] md:text-[70px] lg:text-[80px] font-extrabold leading-normal">ATAEV <br /> BAHODIR BUILD</h1>
             <p className="mt-7 mb-8 text-lg sm:text-xl font-bold">{t('banner.p')}</p>
             <div className="flex items-center gap-5">
-              <button className="border-[1px] border-white text-white bg-transparent rounded-3xl px-4 sm:px-6 py-2 sm:py-3 text-sm sm:text-[16px] font-semibold transition-all duration-300 hover:bg-white hover:text-main">{t('banner.btn1')}</button>
-              <button className="border-[1px] border-white text-white bg-transparent rounded-3xl px-4 sm:px-6 py-2 sm:py-3 text-sm sm:text-[16px] font-semibold transition-all duration-300 hover:bg-white hover:text-main">{t('banner.btn2')}</button>
+                <a className="border-[1px] border-white text-white bg-transparent rounded-3xl px-4 sm:px-6 py-2 sm:py-3 text-sm sm:text-[16px] font-semibold transition-all duration-300 hover:bg-white hover:text-main" href="#projects">{t('banner.btn1')}</a>
+                <a className="border-[1px] border-white text-white bg-transparent rounded-3xl px-4 sm:px-6 py-2 sm:py-3 text-sm sm:text-[16px] font-semibold transition-all duration-300 hover:bg-white hover:text-main" href="#communication">{t('banner.btn2')}</a>
             </div>
           </div>
     </div>

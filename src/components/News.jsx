@@ -15,7 +15,7 @@ const News = () => {
       initializeAOS()
     },[])
   return (
-    <div className='mt-10 mb-20 pb-8 bg-[#f7f7f7] pt-16'>
+    <div id='news' className='mt-10 mb-20 pb-8 bg-[#f7f7f7] pt-16'>
         <Container>
             <h2 data-aos='zoom-in' className='sm:text-3xl text-2xl font-semibold mb-5'>All Our News</h2>
             <div className='grid grid-cols-1 lg:grid-cols-[repeat(2,minmax(350px,50%))] gap-8'>
