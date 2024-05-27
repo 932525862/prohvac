@@ -12,7 +12,7 @@ const NewsCard = ({img,title,desc}) => {
             <img className='w-full h-[200px] md:h-full object-cover' src={img} alt="" />
         </div>
         <div className='md:w-[55%] p-3'>
-            <button className='bg-main text-white rounded-2xl py-1 px-4 text-sm border-[1px] hover:text-main hover:bg-white hover:border-main transition-colors duration-300'>News</button>
+            {/* <button className='bg-main text-white rounded-2xl py-1 px-4 text-sm border-[1px] hover:text-main hover:bg-white hover:border-main transition-colors duration-300'>News</button> */}
             <h4 className='text-[16px] font-semibold mt-1 mb-2'>{title}</h4>
             <p className='text-[12px]'>{desc}</p>
         </div>
