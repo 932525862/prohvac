@@ -14,7 +14,7 @@ const Footer = () => {
   return (
     <div className='bg-primary py-12 sm:py-20'>
         <Container>
-            <div data-aos='zoom-in' data-aos-duration='700' data-aos-delay='300' className='flex flex-col sm:flex-row items-center sm:items-start sm:justify-between gap-10 sm:gap-5'>
+            <div data-aos='zoom-in' data-aos-duration='700' data-aos-delay='140' className='flex flex-col sm:flex-row items-center sm:items-start sm:justify-between gap-10 sm:gap-5'>
                 <div>
                     <img className='w-full max-w-[110px] sm:max-w-[120px] mb-5' src={logo} alt="" />
                     <div className='flex items-center gap-4'>

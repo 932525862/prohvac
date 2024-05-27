@@ -17,7 +17,7 @@ const Services = () => {
     <div id='services' className='bg-primary'>
         <Container>
             <div className='pt-20 pb-10'>
-                <h2 className='text-center text-3xl font-semibold mb-12'>{t('services.h2')}</h2>
+                <h2 data-aos='zoom-in' data-aos-duration='800' data-aos-delay='200' className='text-center text-3xl font-semibold mb-12'>{t('services.h2')}</h2>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
                     <div data-aos='flip-right' data-aos-duration='1000' className='bg-main rounded-2xl flex items-center justify-between px-1 pl-7 pt-10'>
