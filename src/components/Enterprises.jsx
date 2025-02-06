@@ -1,13 +1,13 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next'
-import ent1 from "../assets/ent1.jpg"
-import ent2 from "../assets/ent2.jpg"
-import ent3 from "../assets/ent3.jpg"
-import ent4 from "../assets/ent4.jpg"
-import ent5 from "../assets/ent5.jpg"
-import ent6 from "../assets/ent6.jpg"
-import ent7 from "../assets/ent7.jpg"
-import ent8 from "../assets/ent8.jpg"
+import ent1 from "../assets/ham1.jpg"
+import ent2 from "../assets/ham2.jpg"
+import ent3 from "../assets/ham3.jpg"
+import ent4 from "../assets/ham4.jpg"
+import ent5 from "../assets/ham5.jpg"
+import ent6 from "../assets/ham6.jpg"
+import ent7 from "../assets/ham7.jpg"
+import ent8 from "../assets/ham8.jpg"
 
 const Enterprises = () => {
     const {t}=useTranslation()

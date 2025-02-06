@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Container from "../utils/Utils";
-import logo from "../assets/logo.png";
-import logoDark from "../assets/logo-dark.png";
+import logo from "../assets/prohavac.png";
+import logoDark from "../assets/prohavac.png";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { FaPhoneFlip } from "react-icons/fa6";
 import { IoClose } from "react-icons/io5";
@@ -45,7 +45,7 @@ const Nav = () => {
         };
     }, []);
   return (
-    <nav className={`py-4 ${navbarSolid&&!smallScreen ? 'bg-primary' : smallScreen? 'bg-main' : 'bg-transparent'} fixed w-full top-0 left-0 z-50 transition-colors duration-500`}>
+    <nav className={`py-1 ${navbarSolid&&!smallScreen ? 'bg-[#ffffff]' : smallScreen? 'bg-main' : 'bg-transparent'} fixed w-full top-0 left-0 z-50 transition-colors duration-500`}>
       <Container>
         <div className="flex justify-center">
           <ul className="hidden md:flex items-center md:gap-7 lg:gap-12">
@@ -82,6 +82,9 @@ const Nav = () => {
                 <button onClick={e=>changeLang('uz')} className="hover:bg-white pb-2 hover:text-black w-full">
                   UZ
                 </button>
+                <button onClick={e=>changeLang('tr')} className="hover:bg-white pb-2 hover:text-black w-full">
+                  TR
+                </button>
               </div>
             </li>
           </ul>
@@ -94,7 +97,7 @@ const Nav = () => {
             </li>
             <li>
                 <button className="text-white bg-secondary rounded-full p-3 text-lg">
-                 <a href="tel:+998974839999" ><FaPhoneFlip/></a>
+                 <a href="tel:+998994625045" ><FaPhoneFlip/></a>
                 </button>
             </li>
           </ul>

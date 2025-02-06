@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Container from "../utils/Utils";
 import { useTranslation } from "react-i18next"
-import formBg from "../assets/form.png"
+import formBg from "../assets/contakt.jpg"
 import { useForm } from "react-hook-form";
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -43,7 +43,7 @@ const Form = () => {
     <div id="communication" className="bg-main py-20">
       <Container>
         <div data-aos='flip-right' data-aos-duration='900' style={{backgroundImage:`url(${formBg})`}} className="bg-cover bg-center w-full h-full rounded-3xl py-5 px-5 sm:py-8 sm:px-12">
-          <h2 className="text-2xl sm:text-3xl font-semibold text-white md:max-w-[400px] mb-10">{t("form.h2")}</h2>
+          <h2 className="text-2xl sm:text-3xl font-semibold text-[#000000] md:max-w-[400px] mb-10">{t("form.h2")}</h2>
           <form onSubmit={handleSubmit(onSubmit)} className="flex flex-col gap-6 items-start">
             
             <input {...register('name')} className={`w-[100%] text-sm sm:text-lg md:max-w-[500px] indent-3 py-2 outline-none rounded-2xl border-2 ${errors.name&&'border-red-500'}`} type="text" placeholder={t("form.name")} />

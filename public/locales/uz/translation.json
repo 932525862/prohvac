@@ -8,25 +8,26 @@
         "comm":"Aloqa"
     },
     "banner":{
+        "titels": "PROHVAC isitish va havo konditsionerini o‘rnatish xizmati",
         "p":"Hamma narsada a'lo",
         "btn1":"Bizning loyihalar",
         "btn2":"Bog'lanish"
     },
     "services":{
-        "h2":"Bizning xizmatlarimiz",
-        "p1":"Siz kompaniyamiz mutaxassislaridan bepul ma'lumot olishingiz mumkin",
+        "h2":"Bizning Afzalliklarimiz",
+        "p1":"Siz kompaniyamiz mutaxassislaridan bepul ma'lumot olishingiz imkoniyatiga egasiz.",
         "p2":"Hujjatlarni rasmiylashtirish",
-        "p3":"Ta`mirlash tuzatish xizmati",
-        "p4":"Professionallar jamoasi"
+        "p3":"Binolarga  istish va sovutish  tizimlarni ornatish va  tamirlash",
+        "p4":"20 yillik tajribaga ega professional jamoa"
     },
     "ratings":{
         "h2":"Bizning kompaniyada",
         "p1":"Xodimlar soni",
         "p2":"Ob'ektlar",
         "p3":"Maxsus jihozlar",
-        "p4":"bozorda ssde yil"
+        "p4":"bozorda "
     },
-    "dream":"Sizning orzuingizdagi uy",
+    "dream":"Bizning ishlarimiz namunalari",
     "projects":{
         "h2":"Bizning loyihalar",
         "p1":"Bu keng ko'lamli ijtimoiy ahamiyatga ega loyiha. Toshkentdagi madaniy-ko'ngilochar klaster yangi diqqatga sazovor joylardan biridir.",
@@ -47,10 +48,10 @@
         "title4":"Biz sizni Discover Invest ko'p funksiyali ob'ektlari bilan tanishtirishda davom etamiz.",
         "desc4":"Biz sizlarni 'ATAEV BAHODIR BUILD' kompaniyasining ko'p funksiyali ob'ektlari bilan tanishtirishda davom etamiz. Ulardan biri Toshkent shahrining Yangixoyat tumanida barpo etilgan 'Yangi Choshtepa turar-joy majmuasidir. Qurilishning umumiy maydoni 12 gektarni tashkil etadi. Shu kungacha 29 ta uy-joy qurilgan."
     },
-    "enterprises":"Hamkorlar bilan fikr almashish",
+    "enterprises":"Bizning hamkor kompaniyalarimiz va brendlarmiz",
     "about":{
-        "h2":"ATAEV BAHODIR BUILD",
-        "p":"Biz shunchaki loyihalar yaratmaymiz, yangi imkoniyatlar yaratamiz. Davlat miqyosidagi inshootlarni qurish orqali biz kelajakni quryapmiz. Biz atrof-muhit haqida qayg'uramiz: kompaniya binolar va infratuzilmani qurish va ulardan foydalanish bilan bog'liq ekologik jihatlar uchun to'liq javobgarlikni o'z zimmasiga oladi.",
+        "h2":"PROHVAC isitish va havo konditsionerini o‘rnatish xizmati",
+        "p":"Biz shunchaki isitish va sovutish tizimlarini o‘rnatmaymiz – biz qulaylik va samaradorlikni ta’minlaymiz. Binolarning iqlim tizimlarini zamonaviy texnologiyalar asosida loyihalash va o‘rnatish orqali biz hayot sifatini oshiramiz. Energiya samaradorligi va ekologik xavfsizlik bizning ustuvor maqsadimiz bo‘lib, mijozlarimiz uchun ishonchli va innovatsion yechimlarni taqdim etamiz.",
         "a":"Batafsil bilish"
     },
     "form":{

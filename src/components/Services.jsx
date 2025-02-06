@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react'
 import Container from '../utils/Utils'
-import services1 from "../assets/services-1.png"
+import services1 from "../assets/operator.png"
 import services2 from "../assets/services-2.png"
 import services3 from "../assets/services-3.png"
-import services4 from "../assets/services-4.png"
+import services4 from "../assets/jamoa.png"
 import { useTranslation } from 'react-i18next'
 import initializeAOS from '../aos/aosSetup'
 
@@ -14,7 +14,7 @@ const Services = () => {
         initializeAOS()
     },[])
   return (
-    <div id='services' className='bg-primary'>
+    <div id='services' className='bg-[#D3D3D3]'>
         <Container>
             <div className='pt-20 pb-10'>
                 <h2 data-aos='zoom-in' data-aos-duration='800' data-aos-delay='200' className='text-center text-3xl font-semibold mb-12'>{t('services.h2')}</h2>

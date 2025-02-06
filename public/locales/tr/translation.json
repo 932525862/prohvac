@@ -1,0 +1,73 @@
+{
+    "nav":{
+        "info":"Bilgiler",
+        "about":"Hakkımızda",
+        "enterprises":"Şirketler",
+        "adv":"Avantajlarımız",
+        "news":"Haberler",
+        "comm":"İletişim"
+    },
+    "banner":{
+        "titels": "PROHVAC Isıtma ve Klima Kurulum Hizmeti",
+        "p":"Her şeyde mükemmellik",
+        "btn1":"Projelerimiz",
+        "btn2":"İletişime Geçin"
+    },
+    "services":{
+        "h2":"Avantajlarımız",
+        "p1":"Şirketimizin uzmanlarından ücretsiz bilgi alma imkanına sahipsiniz.",
+        "p2":"Belgelerin resmi düzenlenmesi",
+        "p3":"Binalara ısıtma ve soğutma sistemleri kurulum ve bakım hizmetleri",
+        "p4":"20 yıllık deneyime sahip profesyonel ekip"
+    },
+    "ratings":{
+        "h2":"Şirketimizde",
+        "p1":"Çalışan sayısı",
+        "p2":"Tamamlanan projeler",
+        "p3":"Özel ekipman",
+        "p4":"pazardaki deneyimimiz"
+    },
+    "dream":"Çalışmalarımızdan Örnekler",
+    "projects":{
+        "h2":"Projelerimiz",
+        "p1":"Bu, geniş çaplı sosyal öneme sahip bir projedir. Taşkent'teki kültürel ve eğlence kompleksi, şehrin en dikkat çekici yerlerinden biridir.",
+        "p2":"Özbekistan halkının konforunu artırmak amacıyla oluşturulmuş çok fonksiyonlu konut kompleksi.",
+        "p3":"Fonon - 2020 yılında Özbekistan'da İtalyan fabrikalarının temelinde inşa edilen mücevher üretim fabrikasıdır. Fonon, Orta Asya'da Avrupa ve Doğu tarzında değerli metallerden mücevher üreten tek büyük şirkettir.",
+        "p4":"Başkent merkezinde yer alan lüks bir konut kompleksi.",
+        "p5":"Taşkent City Uluslararası İş Merkezi'nde bulunan uluslararası çocuk yuvası ve okulu.",
+        "p6":"Uluslararası standartlarda eğitim veren bir eğitim kurumu."
+    },
+    "news":{
+        "h2":"Tüm Haberlerimiz",
+        "title1":"İnşaat Proje Yöneticisi Kimdir?",
+        "desc1":"Discover Invest şirketinde birden fazla inşaat proje yöneticisi bulunmaktadır. Bu uzman, kendisine emanet edilen inşaat projesinin başarılı bir şekilde tamamlanmasından sorumludur. Planlama aşamasından ve proje belgelerinin onaylanmasından başlayarak, projenin tamamlanmasına kadar tüm süreci yönetir ve bazen proje sonrası desteği de sağlar.",
+        "title2":"Salonlar",
+        "desc2":"Salonların sofistike iç tasarımı, apartmana girmeden önce bile rahat bir ortam yaratır ve sezgisel navigasyon sistemi, ihtiyacınız olan kata kolayca ulaşmanızı sağlar.",
+        "title3":"Konum",
+        "desc3":"Ulaşım altyapısı, şehrin her noktasına kolayca erişim imkanı sunar: sadece ihtiyacınıza uygun güzergahı seçmeniz yeterlidir.",
+        "title4":"Discover Invest'in çok fonksiyonlu projelerini tanıtmaya devam ediyoruz.",
+        "desc4":"Sizi 'ATAEV BAHODIR BUILD' şirketinin çok fonksiyonlu projeleriyle tanıştırmaya devam ediyoruz. Bunlardan biri, Taşkent'in Yangihayat bölgesinde inşa edilen 'Yeni Choshtepa' konut kompleksidir. İnşaatın toplam alanı 12 hektardır ve şu ana kadar 29 konut binası inşa edilmiştir."
+    },
+    "enterprises":"İş ortaklarımız ve markalarımız",
+    "about":{
+        "h2":"PROHVAC Isıtma ve Klima Kurulum Hizmeti",
+        "p":"Sadece ısıtma ve soğutma sistemleri kurmuyoruz – konfor ve verimlilik sağlıyoruz. Modern teknolojilere dayalı iklimlendirme sistemleri tasarlayarak ve kurarak yaşam kalitesini artırıyoruz. Enerji verimliliği ve çevresel güvenlik bizim önceliğimizdir ve müşterilerimize güvenilir ve yenilikçi çözümler sunuyoruz.",
+        "a":"Daha fazla bilgi al"
+    },
+    "form":{
+        "h2":"Sorularınız, önerileriniz veya talepleriniz mi var?",
+        "name":"Adınız",
+        "phone":"Telefon Numaranız",
+        "message":"Mesajınız",
+        "btn":"Gönder"
+    },
+    "formsent":{
+        "success":"Başarıyla gönderildi",
+        "error":"Gönderilemedi. Lütfen tekrar deneyin"
+    },
+    "footer":{
+        "h4":"Şirketimiz",
+        "h42":"İletişim",
+        "projects":"Projelerimiz"
+    }
+}

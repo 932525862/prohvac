@@ -42,19 +42,19 @@ const Ratings = () => {
                 <h2 data-aos='fade-left' data-aos-delay='500' className='text-white text-2xl font-bold mb-16'>{t('ratings.h2')}</h2>
                 <div data-aos='zoom-in' data-aos-duratioin='1200' className='flex items-center gap-16 flex-wrap'>
                     <div>
-                        <strong className='text-white text-3xl sm:text-4xl md:text-5xl mb-3 block'>{counterOn && <CountUp start={0} end={120} duration={6} />} +</strong>
+                        <strong className='text-white text-3xl sm:text-4xl md:text-5xl mb-3 block'>{counterOn && <CountUp start={0} end={50} duration={6} />} +</strong>
                         <p className='text-white text-sm sm:text-lg md:text-xl'>{t('ratings.p1')}</p>
                     </div>
                     <div>
-                        <strong className='text-white text-3xl sm:text-4xl md:text-5xl mb-3 block'>{counterOn && <CountUp start={0} end={43} duration={6} />} +</strong>
+                        <strong className='text-white text-3xl sm:text-4xl md:text-5xl mb-3 block'>{counterOn && <CountUp start={0} end={53} duration={6} />} +</strong>
                         <p className='text-white text-sm sm:text-lg md:text-xl'>{t('ratings.p2')}</p>
                     </div>
                     <div>
-                        <strong className='text-white text-3xl sm:text-4xl md:text-5xl mb-3 block'>{counterOn && <CountUp start={0} end={250} duration={6} />} +</strong>
+                        <strong className='text-white text-3xl sm:text-4xl md:text-5xl mb-3 block'>{counterOn && <CountUp start={0} end={100} duration={6} />} +</strong>
                         <p className='text-white text-sm sm:text-lg md:text-xl'>{t('ratings.p3')}</p>
                     </div>
                     <div>
-                        <strong className='text-white text-3xl sm:text-4xl md:text-5xl mb-3 block'>{counterOn && <CountUp start={0} end={2} duration={6} />} +</strong>
+                        <strong className='text-white text-3xl sm:text-4xl md:text-5xl mb-3 block'>{counterOn && <CountUp start={0} end={20} duration={6} />} +</strong>
                         <p className='text-white text-sm sm:text-lg md:text-xl'>{t('ratings.p4')}</p>
                     </div>
                 </div>
