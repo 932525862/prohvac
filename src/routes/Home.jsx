@@ -5,7 +5,7 @@ import Services from '../components/Services'
 import Ratings from '../components/Ratings'
 import Dream from '../components/Dream'
 import Projects from '../components/Projects'
-import News from '../components/News'
+// import News from '../components/News'
 import Enterprises from '../components/Enterprises'
 import About from '../components/About'
 import Form from '../components/Form'
@@ -20,7 +20,7 @@ const Home = () => {
         <Ratings/>
         <Dream/>
         <Projects/>
-        <News/>
+        {/* <News/> */}
         <Enterprises/>
         <About/>
         <Form/>

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Container from "../utils/Utils";
-import logo from "../assets/prohavac.png";
-import logoDark from "../assets/prohavac.png";
+import logo from "../assets/logo-bg.png";
+import logoDark from "../assets/logo-bg.png";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { FaPhoneFlip } from "react-icons/fa6";
 import { IoClose } from "react-icons/io5";
@@ -59,7 +59,7 @@ const Nav = () => {
               <a href="#enterprises" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.enterprises')}</a>
             </li>
             <li className="">
-              <a href="#"><img className="object-contain w-[110px]" src={navbarSolid?logoDark:logo} alt="" /></a>
+              <a href="#"><img className="object-contain w-[280px]" src={navbarSolid?logoDark:logo} alt="" /></a>
             </li>
             <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
               <a href="#services" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.adv')}</a>
@@ -68,7 +68,7 @@ const Nav = () => {
               <a href="#news" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.news')}</a>
             </li>
             <li className={`text-[13px] lg:text-[16px] border-b-[1px] border-b-transparent ${navbarSolid?'hover:border-b-black':'hover:border-b-white'} transition-all duration-300`}>
-              <a href="tel:+998974839999" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.comm')}</a>
+              <a href="tel:+998998555045" className={`${navbarSolid?'text-black':'text-white'}`}>{t('nav.comm')}</a>
             </li>
             <li className="relative group cursor-pointer">
               <p className={`text-[13px] lg:text-[16px] uppercase ${navbarSolid?'text-black':'text-white'}`}>{langCode}</p>
@@ -97,7 +97,7 @@ const Nav = () => {
             </li>
             <li>
                 <button className="text-white bg-secondary rounded-full p-3 text-lg">
-                 <a href="tel:+998994625045" ><FaPhoneFlip/></a>
+                 <a href="tel:+998998555045" ><FaPhoneFlip/></a>
                 </button>
             </li>
           </ul>

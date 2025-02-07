@@ -1,47 +1,65 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next'
-import ent1 from "../assets/ham1.jpg"
-import ent2 from "../assets/ham2.jpg"
-import ent3 from "../assets/ham3.jpg"
-import ent4 from "../assets/ham4.jpg"
-import ent5 from "../assets/ham5.jpg"
-import ent6 from "../assets/ham6.jpg"
-import ent7 from "../assets/ham7.jpg"
-import ent8 from "../assets/ham8.jpg"
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+
+import ent1 from "../assets/akfa.png"
+import ent2 from "../assets/diuz.png"
+import ent3 from "../assets/hisenseoq.png"
+import ent4 from "../assets/koc-1.png"
+import ent5 from "../assets/toshiba.png"
+import ent6 from "../assets/shivakioq.png"
+import ent7 from "../assets/mitsubishi-electric.svg"
+import ent8 from "../assets/aux.jpg"
 
 const Enterprises = () => {
-    const {t}=useTranslation()
-  return (
-    <div id='enterprises' className='overflow-hidden'>
-        <h2 data-aos='zoom-in' data-aos-duration='900' className='text-center mx-5 text-2xl sm:text-3xl font-semibold mb-8'>{t('enterprises')}</h2>
-        <div className='grid grid-cols-[1fr,1fr] md:grid-cols-[1fr,1fr,1fr,1fr] grid-rows-[300px,300px,300px,300px] sm:grid-rows-[400px,400px,400px,400px] md:grid-rows-[550px,550px]'>
-            <div data-aos='flip-up' data-aos-duration='600'>
-                <img className='w-full h-full object-cover object-center' src={ent1} alt="" />
-            </div>
-            <div data-aos='flip-up' data-aos-duration='600'>
-                <img className='w-full h-full object-cover object-center' src={ent2} alt="" />
-            </div>
-            <div data-aos='flip-up' data-aos-duration='600'>
-                <img className='w-full h-full object-cover object-center' src={ent3} alt="" />
-            </div>
-            <div data-aos='flip-up' data-aos-duration='600'>
-                <img className='w-full h-full object-cover object-center' src={ent4} alt="" />
-            </div>
-            <div data-aos='flip-down' data-aos-duration='600'>
-                <img className='w-full h-full object-cover object-center' src={ent5} alt="" />
-            </div>
-            <div data-aos='flip-down' data-aos-duration='600'>
-                <img className='w-full h-full object-cover object-center' src={ent6} alt="" />
-            </div>
-            <div data-aos='flip-down' data-aos-duration='600'>
-                <img className='w-full h-full object-cover object-center' src={ent7} alt="" />
-            </div>
-            <div data-aos='flip-down' data-aos-duration='600'>
-                <img className='w-full h-full object-cover object-center' src={ent8} alt="" />
-            </div>
+    const { t } = useTranslation();
+
+    const settings = {
+        dots: false,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1000, // Slayder tezligi tezlashtirildi (1 sekunda)
+        responsive: [
+            {
+                breakpoint: 1280, // Ekran 1280px dan kichik bo'lsa
+                settings: {
+                    slidesToShow: 3,
+                }
+            },
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 2,
+                }
+            },
+            {
+                breakpoint: 640,
+                settings: {
+                    slidesToShow: 1,
+                }
+            }
+        ]
+    };
+
+    return (
+        <div id='enterprises' className='overflow-hidden mt-20 px-10 max-w-screen-2xl mx-auto'>
+            <h2 data-aos='zoom-in' data-aos-duration='900' className='text-center text-2xl sm:text-3xl font-semibold mb-8'>
+                {t('enterprises')}
+            </h2>
+            <Slider {...settings} className=''>
+                {[ent1, ent2, ent3, ent4, ent5, ent6, ent7, ent8].map((image, index) => (
+                    <div key={index} className='px-3'>
+                        <img className='w-full h-[200px] object-contain' src={image} alt={`enterprise-${index}`} />
+                    </div>
+                ))}
+            </Slider>
         </div>
-    </div>
-  )
+    );
 }
 
-export default Enterprises
+export default Enterprises;
