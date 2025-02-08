@@ -26,7 +26,7 @@ const Form = () => {
           const token="7761955807:AAGXje3TXDjXtCXZsdXkJtvE5XKpzEyibbs"
           const chat_id='-1002445156782'
             const url = `https://api.telegram.org/bot${token}/sendMessage`;
-            const text = `📩 *Yangi So‘rov!* \n👤 *Ism:* ${name} \n📞 *Telefon:* ${phone}`;
+            const text = `📩 *Yangi Mijoz!* \n👤 *Ism:* ${name} \n📞 *Telefon:* ${phone}`;
             
             await axios.post(url, {
                 chat_id: chat_id,

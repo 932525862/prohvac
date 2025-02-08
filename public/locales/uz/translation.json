@@ -8,7 +8,7 @@
         "comm":"Aloqa"
     },
     "banner":{
-        "titels": "PROHVAC isitish va havo konditsionerini o‘rnatish xizmati",
+        "titels": "Sanoat konditsionerlari va ventilyatsiya tizimlarini o‘rnatish bo‘yicha xizmatlar.",
         "p":"Hamma narsada a'lo",
         "btn1":"Bizning loyihalar",
         "btn2":"Bog'lanish"
@@ -16,7 +16,7 @@
     "services":{
         "h2":"Bizning Afzalliklarimiz",
         "p1":"Siz kompaniyamiz mutaxassislaridan bepul ma'lumot olishingiz imkoniyatiga egasiz.",
-        "p2":"Hujjatlarni rasmiylashtirish",
+        "p2":"Jihozlarni saralash",
         "p3":"Binolarga  istish va sovutish  tizimlarni ornatish va  tamirlash",
         "p4":"20 yillik tajribaga ega professional jamoa"
     },
@@ -69,5 +69,13 @@
         "h4":"Kompaniyamiz",
         "h42":"Aloqa",
         "projects":"Bizning loyihalarimiz"
+    },
+    "part":{
+        "expo":"Central Asian Expo",
+        "citi":"Tashkent City Opera",
+        "przdent":"Zanim Hotels Ramanda",
+        "zamin":"President School in Tashkent",
+        "yurt":"Yurt in Karakalpakstan",
+        "ren":"Renaissance University"
     }
 }

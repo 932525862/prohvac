@@ -11,7 +11,7 @@ import ent4 from "../assets/koc-1.png"
 import ent5 from "../assets/toshiba.png"
 import ent6 from "../assets/shivakioq.png"
 import ent7 from "../assets/mitsubishi-electric.svg"
-import ent8 from "../assets/aux.jpg"
+import ent8 from "../assets/aux1.jpeg"
 
 const Enterprises = () => {
     const { t } = useTranslation();

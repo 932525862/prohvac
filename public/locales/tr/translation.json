@@ -1,73 +1,81 @@
 {
-    "nav":{
-        "info":"Bilgiler",
-        "about":"Hakkımızda",
-        "enterprises":"Şirketler",
-        "adv":"Avantajlarımız",
-        "news":"Haberler",
-        "comm":"İletişim"
+    "nav": {
+        "info": "Bilgi",
+        "about": "Hakkımızda",
+        "enterprises": "İşletmeler",
+        "adv": "Avantajlarımız",
+        "news": "Haberler",
+        "comm": "İletişim"
     },
-    "banner":{
-        "titels": "PROHVAC Isıtma ve Klima Kurulum Hizmeti",
-        "p":"Her şeyde mükemmellik",
-        "btn1":"Projelerimiz",
-        "btn2":"İletişime Geçin"
+    "banner": {
+        "titels": "Endüstriyel klima ve havalandırma sistemleri montaj hizmetleri.",
+        "p": "Her şeyde mükemmel",
+        "btn1": "Projelerimiz",
+        "btn2": "Bize Ulaşın"
     },
-    "services":{
-        "h2":"Avantajlarımız",
-        "p1":"Şirketimizin uzmanlarından ücretsiz bilgi alma imkanına sahipsiniz.",
-        "p2":"Belgelerin resmi düzenlenmesi",
-        "p3":"Binalara ısıtma ve soğutma sistemleri kurulum ve bakım hizmetleri",
-        "p4":"20 yıllık deneyime sahip profesyonel ekip"
+    "services": {
+        "h2": "Avantajlarımız",
+        "p1": "Uzmanlarımızdan ücretsiz danışmanlık alabilirsiniz.",
+        "p2": "Ekipman seçimi",
+        "p3": "Binalarda ısıtma ve soğutma sistemlerinin montajı ve onarımı",
+        "p4": "20 yıllık deneyime sahip profesyonel ekip"
     },
-    "ratings":{
-        "h2":"Şirketimizde",
-        "p1":"Çalışan sayısı",
-        "p2":"Tamamlanan projeler",
-        "p3":"Özel ekipman",
-        "p4":"pazardaki deneyimimiz"
+    "ratings": {
+        "h2": "Şirketimizde",
+        "p1": "Çalışan sayısı",
+        "p2": "Projeler",
+        "p3": "Uzman ekipmanlar",
+        "p4": "yıldır piyasada"
     },
-    "dream":"Çalışmalarımızdan Örnekler",
-    "projects":{
-        "h2":"Projelerimiz",
-        "p1":"Bu, geniş çaplı sosyal öneme sahip bir projedir. Taşkent'teki kültürel ve eğlence kompleksi, şehrin en dikkat çekici yerlerinden biridir.",
-        "p2":"Özbekistan halkının konforunu artırmak amacıyla oluşturulmuş çok fonksiyonlu konut kompleksi.",
-        "p3":"Fonon - 2020 yılında Özbekistan'da İtalyan fabrikalarının temelinde inşa edilen mücevher üretim fabrikasıdır. Fonon, Orta Asya'da Avrupa ve Doğu tarzında değerli metallerden mücevher üreten tek büyük şirkettir.",
-        "p4":"Başkent merkezinde yer alan lüks bir konut kompleksi.",
-        "p5":"Taşkent City Uluslararası İş Merkezi'nde bulunan uluslararası çocuk yuvası ve okulu.",
-        "p6":"Uluslararası standartlarda eğitim veren bir eğitim kurumu."
+    "dream": "Çalışmalarımızdan örnekler",
+    "projects": {
+        "h2": "Projelerimiz",
+        "p1": "Özbekistan'ın Taşkent kentinde bulunan Orta Asya Fuarı (CAEx) için gelişmiş ısıtma, havalandırma ve klima (HVAC) sistemleri kurduk. Çözümlerimiz, bu modern fuar merkezindeki tüm etkinlikler için optimum konfor sağlar.",
+        "p2": "Taşkent Şehir Operası'na kurulan gelişmiş VRF sistemi, seyirciler ve sanatçılar için mükemmel iklim koşulları oluşturur. Çözümlerimiz, şehrin en önemli kültürel merkezlerinden birinde konfor ve verimliliği garanti eder.",
+        "p3": "ProHVAC, ZAMIN HOTELS RAMADA projesinde gelişmiş VRF sistemleri kurdu. Bu çözüm, yüksek enerji verimliliği ve optimum iklim kontrolü sağlar.",
+        "p4": "ProHVAC, 'Taşkent Cumhurbaşkanlığı Okulu' projesinde Shivaki marka kaset tipi VRF sistemleri kurdu.",
+        "p5": "ProHVAC, Guinness Rekorlar Kitabı'na giren 'Karakalpakistan'daki Yurt' projesinde Shivaki marka VRF sistemleri kurdu.",
+        "p6": "ProHVAC, 'Rönesans Üniversitesi' projesinde Aux marka VRF sistemleri kurdu. Bu çözüm, üniversitenin eğitim ve yönetim binalarında yüksek enerji verimliliği ve konforlu bir ortam sağladı."
     },
-    "news":{
-        "h2":"Tüm Haberlerimiz",
-        "title1":"İnşaat Proje Yöneticisi Kimdir?",
-        "desc1":"Discover Invest şirketinde birden fazla inşaat proje yöneticisi bulunmaktadır. Bu uzman, kendisine emanet edilen inşaat projesinin başarılı bir şekilde tamamlanmasından sorumludur. Planlama aşamasından ve proje belgelerinin onaylanmasından başlayarak, projenin tamamlanmasına kadar tüm süreci yönetir ve bazen proje sonrası desteği de sağlar.",
-        "title2":"Salonlar",
-        "desc2":"Salonların sofistike iç tasarımı, apartmana girmeden önce bile rahat bir ortam yaratır ve sezgisel navigasyon sistemi, ihtiyacınız olan kata kolayca ulaşmanızı sağlar.",
-        "title3":"Konum",
-        "desc3":"Ulaşım altyapısı, şehrin her noktasına kolayca erişim imkanı sunar: sadece ihtiyacınıza uygun güzergahı seçmeniz yeterlidir.",
-        "title4":"Discover Invest'in çok fonksiyonlu projelerini tanıtmaya devam ediyoruz.",
-        "desc4":"Sizi 'ATAEV BAHODIR BUILD' şirketinin çok fonksiyonlu projeleriyle tanıştırmaya devam ediyoruz. Bunlardan biri, Taşkent'in Yangihayat bölgesinde inşa edilen 'Yeni Choshtepa' konut kompleksidir. İnşaatın toplam alanı 12 hektardır ve şu ana kadar 29 konut binası inşa edilmiştir."
+    "news": {
+        "h2": "Son haberlerimiz",
+        "title1": "İnşaat proje yöneticisi kimdir?",
+        "desc1": "Discover Invest şirketinde birkaç inşaat proje yöneticisi çalışmaktadır. Bu uzman, kendisine emanet edilen inşaat projesinin başarılı bir şekilde tamamlanmasından sorumludur. Süreci planlama ve proje belgelerinin onaylanmasından, projenin tamamlanmasına ve bazen sonrası desteğe kadar yönetir.",
+        "title2": "Salonlar",
+        "desc2": "Salonların karmaşık iç tasarımı, daireye girmeden önce konforlu bir atmosfer oluşturur ve kolay navigasyon sistemi, doğru kata veya bölgeye kolay ulaşmanıza yardımcı olur.",
+        "title3": "Adres",
+        "desc3": "Ulaşım altyapısı, şehrin herhangi bir noktasına kolayca ulaşmanızı sağlar – tek yapmanız gereken doğru yönü seçmektir.",
+        "title4": "Discover Invest’in çok işlevli projelerini tanıtmaya devam ediyoruz.",
+        "desc4": "Discover Invest şirketinin çok işlevli projelerini tanıtmaya devam ediyoruz. Bunlardan biri, Taşkent’in Yangihayot bölgesinde bulunan 'Yangi Choshtepa' konut kompleksidir. Toplam inşaat alanı 12 hektardır. Şu anda 29 konut binası tamamlanmıştır."
     },
-    "enterprises":"İş ortaklarımız ve markalarımız",
-    "about":{
-        "h2":"PROHVAC Isıtma ve Klima Kurulum Hizmeti",
-        "p":"Sadece ısıtma ve soğutma sistemleri kurmuyoruz – konfor ve verimlilik sağlıyoruz. Modern teknolojilere dayalı iklimlendirme sistemleri tasarlayarak ve kurarak yaşam kalitesini artırıyoruz. Enerji verimliliği ve çevresel güvenlik bizim önceliğimizdir ve müşterilerimize güvenilir ve yenilikçi çözümler sunuyoruz.",
-        "a":"Daha fazla bilgi al"
+    "enterprises": "İş ortaklarımız ve markalarımız",
+    "about": {
+        "h2": "PROHVAC – Isıtma ve klima sistemleri montaj hizmetleri",
+        "p": "ProHVAC, VRF, VRV, soğutma sistemleri, havalandırma ve split klima montajında lider bir uzmandır. Konut, ticari ve endüstriyel yapılar için bireysel iklimlendirme çözümleri sunarak konfor, enerji verimliliği ve dayanıklılığı garanti ediyoruz. En son teknolojileri ve önde gelen üreticilerin ekipmanlarını kullanarak, yetkin uzmanlarımız yüksek kaliteli montaj ve teknik bakım hizmetleri sunmaktadır. Bu, sıcaklığın hassas şekilde kontrol edilmesini, hava kalitesinin artırılmasını ve enerji tüketiminin azaltılmasını sağlar. ProHVAC, iklim sistemlerinin tasarımı, kurulumu ve teknik bakımı konusunda kapsamlı hizmetler sunarak her müşterisi için maksimum konfor ve verimlilik sağlamaktadır.",
+        "a": "Daha fazla bilgi"
     },
-    "form":{
-        "h2":"Sorularınız, önerileriniz veya talepleriniz mi var?",
-        "name":"Adınız",
-        "phone":"Telefon Numaranız",
-        "message":"Mesajınız",
-        "btn":"Gönder"
+    "form": {
+        "h2": "Sorularınız, önerileriniz veya talepleriniz var mı?",
+        "name": "Adınız",
+        "phone": "Telefon numaranız",
+        "message": "Mesajınız",
+        "btn": "Gönder"
     },
-    "formsent":{
-        "success":"Başarıyla gönderildi",
-        "error":"Gönderilemedi. Lütfen tekrar deneyin"
+    "formsent": {
+        "success": "Başarıyla gönderildi",
+        "error": "Gönderme başarısız oldu. Lütfen tekrar deneyin"
     },
-    "footer":{
-        "h4":"Şirketimiz",
-        "h42":"İletişim",
-        "projects":"Projelerimiz"
+    "footer": {
+        "h4": "Şirketimiz",
+        "h42": "İletişim",
+        "projects": "Projelerimiz"
+    },
+    "part": {
+        "expo": "Orta Asya Fuarı",
+        "citi": "Taşkent Şehir Operası",
+        "przdent": "Zamin Hotels Ramada",
+        "zamin": "Taşkent Cumhurbaşkanlığı Okulu",
+        "yurt": "Karakalpakistan’daki Yurt",
+        "ren": "Rönesans Üniversitesi"
     }
 }

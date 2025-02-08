@@ -134,6 +134,9 @@ const Nav = () => {
                 <button onClick={e=>changeLang('uz')} className="hover:bg-white hover:text-black font-bold">
                   UZ
                 </button>
+                <button onClick={e=>changeLang('tr')} className="hover:bg-white hover:text-black font-bold">
+                  TR
+                </button>
               </div>
             </li>
             </ul>

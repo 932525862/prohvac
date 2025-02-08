@@ -1,73 +1,81 @@
 {
-    "nav":{
-        "info":"Information",
-        "about":"About Us",
-        "enterprises":"Enterprises",
-        "adv":"Our Advantages",
-        "news":"News",
-        "comm":"Contact"
+    "nav": {
+        "info": "Information",
+        "about": "About Us",
+        "enterprises": "Enterprises",
+        "adv": "Our Advantages",
+        "news": "News",
+        "comm": "Contact"
     },
-    "banner":{
-        "titels": "PROHVAC Heating and Air Conditioning Installation Service",
-        "p":"Excellence in everything",
-        "btn1":"Our Projects",
-        "btn2":"Contact Us"
+    "banner": {
+        "titels": "Services for the installation of industrial air conditioning and ventilation systems.",
+        "p": "Excellence in everything",
+        "btn1": "Our Projects",
+        "btn2": "Contact Us"
     },
-    "services":{
-        "h2":"Our Advantages",
-        "p1":"You have the opportunity to receive free consultation from our specialists.",
-        "p2":"Document processing",
-        "p3":"Installation and maintenance of heating and cooling systems in buildings",
-        "p4":"A professional team with 20 years of experience"
+    "services": {
+        "h2": "Our Advantages",
+        "p1": "You have the opportunity to receive free information from our company’s specialists.",
+        "p2": "Documentation processing",
+        "p3": "Installation and maintenance of heating and cooling systems in buildings",
+        "p4": "A professional team with 20 years of experience"
     },
-    "ratings":{
-        "h2":"In Our Company",
-        "p1":"Number of Employees",
-        "p2":"Completed Projects",
-        "p3":"Special Equipment",
-        "p4":"years in the market"
+    "ratings": {
+        "h2": "At Our Company",
+        "p1": "Number of Employees",
+        "p2": "Projects Completed",
+        "p3": "Special Equipment",
+        "p4": "Years in the Market"
     },
-    "dream":"Examples of Our Work",
-    "projects":{
-        "h2":"Our Projects",
-        "p1":"This is a large-scale project of social significance. The cultural and entertainment cluster in Tashkent is one of the city's new attractions.",
-        "p2":"A multifunctional residential complex created for the convenience of Uzbekistan's residents.",
-        "p3":"Fonon – a jewelry manufacturing plant built in Uzbekistan in 2020 based on Italian factories. Fonon is the only major company in Central Asia that produces jewelry from precious metals in European and Eastern styles.",
-        "p4":"A luxurious residential complex in the heart of the capital.",
-        "p5":"An international kindergarten and school located in the Tashkent City International Business Center.",
-        "p6":"An educational institution providing international-level education."
+    "dream": "Examples of Our Work",
+    "projects": {
+        "h2": "Our Projects",
+        "p1": "We are proud to have installed advanced heating, ventilation, and air conditioning (HVAC) systems at the Central Asia Expo Center (CAEx) in Tashkent, Uzbekistan. Our solutions ensure optimal comfort for all events held at this modern exhibition center.",
+        "p2": "The installation of advanced VRF systems at Tashkent City Opera ensures perfect climate conditions for both the audience and performers. Our solutions guarantee comfort and efficiency at one of the city’s most important cultural venues.",
+        "p3": "ProHVAC installed advanced VRF systems in the ZAMIN HOTELS RAMADA project. This solution provides high energy efficiency and optimal climate control for guests.",
+        "p4": "Shivaki cassette-type VRF systems were installed by ProHVAC in the 'Presidential School in Tashkent' project.",
+        "p5": "Shivaki VRF systems were installed by ProHVAC in the 'Yurt in Karakalpakstan' project, which was recognized by the Guinness World Records.",
+        "p6": "Aux VRF systems were installed by ProHVAC in the 'Renaissance University' project. This solution ensures high energy efficiency and optimal climate conditions in the university’s academic and administrative buildings."
     },
-    "news":{
-        "h2":"All Our News",
-        "title1":"Who is a Construction Project Manager?",
-        "desc1":"Discover Invest employs several construction project managers. These specialists are responsible for successfully implementing the construction project – from planning and document approval to completion and, in some cases, post-project support.",
-        "title2":"Halls",
-        "desc2":"The sophisticated interior design of the halls creates a comfortable atmosphere even before entering the apartment, and the intuitive navigation system helps you easily reach the desired floor or area.",
-        "title3":"Location",
-        "desc3":"The transportation infrastructure allows easy access to any part of the city – simply choose the right route.",
-        "title4":"We continue to introduce you to the multifunctional projects of Discover Invest.",
-        "desc4":"We continue to introduce you to the multifunctional projects of 'ATAEV BAHODIR BUILD'. One of them is the 'Yangi Choshtepa' residential complex, located in the Yangihayat district of Tashkent. The total construction area is 12 hectares, and so far, 29 residential buildings have been constructed."
+    "news": {
+        "h2": "Our Latest News",
+        "title1": "Who is a Construction Project Manager?",
+        "desc1": "Discover Invest has several construction project managers. This specialist is responsible for the successful implementation of the assigned construction project, managing the entire process from the planning stage and approval of project documentation to commissioning and sometimes even post-project support.",
+        "title2": "Halls",
+        "desc2": "The complex interior design of the halls creates a comfortable atmosphere even before entering the apartment, and a convenient navigation system helps you easily reach the desired floor or area.",
+        "title3": "Location",
+        "desc3": "The transport infrastructure allows you to easily move to any part of the city: you just need to choose the necessary and desired route.",
+        "title4": "We continue to introduce you to Discover Invest’s multi-functional properties.",
+        "desc4": "We continue to introduce you to the multifunctional properties of the 'ATAEV BAHODIR BUILD' company. One of them is the 'Yangi Choshtepa Residential Complex,' built in the Yangikhayat district of Tashkent. The total construction area is 12 hectares. To date, 29 residential buildings have been constructed."
     },
-    "enterprises":"Our Partner Companies and Brands",
-    "about":{
-        "h2":"PROHVAC Heating and Air Conditioning Installation Service",
-        "p":"We don’t just install heating and cooling systems – we ensure comfort and efficiency. By designing and installing climate systems based on modern technologies, we improve the quality of life. Energy efficiency and environmental safety are our top priorities, and we offer reliable and innovative solutions for our clients.",
-        "a":"Learn More"
+    "enterprises": "Our Partner Companies and Brands",
+    "about": {
+        "h2": "PROHVAC Heating and Air Conditioning Installation Service",
+        "p": "ProHVAC is a leading expert in the installation and maintenance of VRF, VRV, chiller systems, ventilation systems, and split air conditioners. We offer customized climate control solutions for residential, commercial, and industrial facilities, ensuring comfort, energy efficiency, and long-term operation. Using modern technologies and equipment from leading manufacturers, our qualified specialists provide high-quality installation and maintenance services. This allows precise temperature control, improved air quality, and reduced energy consumption. ProHVAC offers a full range of climate system design, installation, and maintenance services, guaranteeing maximum comfort and efficiency for every client.",
+        "a": "Learn More"
     },
-    "form":{
-        "h2":"Do you have any questions, suggestions, or inquiries?",
-        "name":"Your Name",
-        "phone":"Your Phone Number",
-        "message":"Your Message",
-        "btn":"Send"
+    "form": {
+        "h2": "Do you have any questions, suggestions, or inquiries?",
+        "name": "Your Name",
+        "phone": "Your Phone Number",
+        "message": "Your Message",
+        "btn": "Send"
     },
-    "formsent":{
-        "success":"Successfully Sent",
-        "error":"Failed to Send. Please try again."
+    "formsent": {
+        "success": "Successfully Sent",
+        "error": "Failed to Send. Please try again."
     },
-    "footer":{
-        "h4":"Our Company",
-        "h42":"Contact",
-        "projects":"Our Projects"
+    "footer": {
+        "h4": "Our Company",
+        "h42": "Contact",
+        "projects": "Our Projects"
+    },
+    "part": {
+        "expo": "Central Asian Expo",
+        "citi": "Tashkent City Opera",
+        "przdent": "Zamin Hotels Ramada",
+        "zamin": "President School in Tashkent",
+        "yurt": "Yurt in Karakalpakstan",
+        "ren": "Renaissance University"
     }
 }
