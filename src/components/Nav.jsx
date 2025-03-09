@@ -85,6 +85,9 @@ const Nav = () => {
                 <button onClick={e=>changeLang('tr')} className="hover:bg-white pb-2 hover:text-black w-full">
                   TR
                 </button>
+                <button onClick={e=>changeLang('ar')} className="hover:bg-white pb-2 hover:text-black w-full">
+                  AR
+                </button>
               </div>
             </li>
           </ul>
@@ -136,6 +139,9 @@ const Nav = () => {
                 </button>
                 <button onClick={e=>changeLang('tr')} className="hover:bg-white hover:text-black font-bold">
                   TR
+                </button>
+                <button onClick={e=>changeLang('ar')} className="hover:bg-white hover:text-black font-bold">
+                  AR
                 </button>
               </div>
             </li>
